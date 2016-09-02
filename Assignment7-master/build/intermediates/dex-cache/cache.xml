@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\edmund.simons\Documents\Android\FrontEnd\LocalDB\Assignment7-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\edmund.simons\Documents\Android\FrontEnd\LocalDB\Assignment7-master\app\build\intermediates\pre-dexed\release\com.android.support-design-23.0.1_b79a52e710fd4322e19f0edb347b4d48203fbeed.jar" />
+    </item>
+    <item
+        jar="C:\Users\edmund.simons\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\edmund.simons\Documents\Android\FrontEnd\LocalDB\Assignment7-master\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1_f74de1c6a5a4ac2b192e0d7977c5bfa55d1244bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\edmund.simons\Documents\Android\FrontEnd\LocalDB\Assignment7-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\edmund.simons\Documents\Android\FrontEnd\LocalDB\Assignment7-master\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.1_3705cc67dc862484d72245ce6b00fbe88208fefb.jar" />
+    </item>
+    <item
+        jar="C:\Users\edmund.simons\Documents\Android\FrontEnd\LocalDB\Assignment7-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\edmund.simons\Documents\Android\FrontEnd\LocalDB\Assignment7-master\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1_81a256f1fea6b8142ea935b16baef9fa9f7f2199.jar" />
+    </item>
+    <item
+        jar="C:\Users\edmund.simons\Documents\Android\FrontEnd\LocalDB\Assignment7-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\edmund.simons\Documents\Android\FrontEnd\LocalDB\Assignment7-master\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.0.1_cfaccef561b31df613cad423d9ecd92c9b7c7fba.jar" />
+    </item>
+
+</items>
